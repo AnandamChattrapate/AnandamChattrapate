@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @AnandamChattrapate
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there! 👋 I'm Anandam Chattrapate  
+
+- 👀 Interested in Software Development, Competitive Programming, and System Design.  
+- 🌱 Currently learning  Data Structures & Algorithms, and exploring Open-Source.  
+- 💡 I love problem-solving and building efficient solutions.  
+- 📫 Reach me at: [chattrapate.anandam@gmail.com](mailto:chattrapate.anandam@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chattrapate-anandam-b8b1aa287/)  
+- ⚡ Fun fact: I thrive under last-minute pressure! 😆  
+
+🚀 Always up for learning and collaborating!  
+
+
 
 <!---
 AnandamChattrapate/AnandamChattrapate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
