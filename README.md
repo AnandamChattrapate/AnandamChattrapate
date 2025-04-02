@@ -4,7 +4,7 @@
 - 🌱 Currently learning  Data Structures & Algorithms, and exploring Open-Source.  
 - 💡 I love problem-solving and building efficient solutions.  
 - 📫 Reach me at: [chattrapate.anandam@gmail.com](mailto:chattrapate.anandam@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chattrapate-anandam-b8b1aa287/)  
-- ⚡ Fun fact: I thrive under last-minute pressure! 😆  
+
 
 🚀 Always up for learning and collaborating!  
 
