@@ -5,7 +5,6 @@
 - 📫 Reach me at: [chattrapate.anandam@gmail.com](mailto:chattrapate.anandam@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chattrapate-anandam-b8b1aa287/)  
 
 
-🚀 Always up for learning and collaborating!  
 
 
 
