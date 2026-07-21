@@ -1,53 +1,89 @@
-<h1 align="center">Hey, I'm Anandam Chattrapate 👋</h1>
-<h3 align="center">Final-year CSE student who ships real-time systems, not just resume bullets</h3>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:203a43&height=220&section=header&text=Anandam%20Chattrapate&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20real-time%20systems%20one%20socket%20at%20a%20time&descAlignY=58&descSize=18" />
+
+<a href="https://github.com/AnandamChattrapate">
+<img src="https://readme-typing-svg.demolab.com/?lines=Final-year+CSE+%40+Anurag+University;Software+Dev+Intern+%40+HackerEarth;Building+VibecodeArena+%E2%80%94+real-time+1v1+coding+battles;Creator+of+DualDev;300%2B+LeetCode+%C2%B7+%7E1560+rating&font=Fira+Code&center=true&width=650&height=45&color=58A6FF&vCenter=true&size=22&pause=1800" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=AnandamChattrapate&style=flat-square&color=58A6FF&label=Profile+Views" />
+
+</div>
 
 <br>
 
-### 🔭 Right now
-- 🚀 Software Development Intern @ **HackerEarth**, building **VibecodeArena** — a real-time, AI-assisted 1v1 competitive coding platform
-- 🛠️ Built **[DualDev](https://github.com/AnandamChattrapate)** solo — a live coding battle platform. Cold-emailed 40+ companies about it; got a reply in 34 minutes and an offer on the same demo call
+## 🔭 Right now
+
+- 🚀 Software Development Intern @ **HackerEarth** — building **VibecodeArena**, a real-time, AI-assisted 1v1 competitive coding platform
+- 🛠️ Creator of **DualDev** — a live coding-battle platform, built solo end to end
 - 🎓 B.Tech CSE @ Anurag University, Hyderabad — Class of 2027
 - 🧩 300+ problems solved on LeetCode, ~1560 rating
 - 🏆 Top 400 finalist, Microsoft Hack with Copilot 2024
 
 <br>
 
-### ⚙️ What's under the hood of DualDev
+## ⚙️ Under the hood of DualDev
+
+<div align="center">
+
 | Layer | Stack |
-|---|---|
-| Frontend | React, Vite, Tailwind, Monaco Editor |
-| Backend | Node.js, Express, Socket.io, BullMQ |
-| Infra | Dual Redis (matchmaking + pub/sub), AWS Lambda sandboxed execution |
-| AI Judge | Groq — Llama 3.3 70B |
+|:---|:---|
+| **Frontend** | React · Vite · Tailwind · Monaco Editor |
+| **Backend** | Node.js · Express · Socket.io · BullMQ |
+| **Infra** | Dual Redis (matchmaking + pub/sub) · AWS Lambda sandboxed execution |
+| **AI Judge** | Groq — Llama 3.3 70B |
 
-The core mechanic: an "opponent silhouette" — your rival's code is tokenized and shown live as blurred/shimmering blocks so you can feel their pace without seeing their solution.
+</div>
 
-<br>
-
-### 🧰 Tech I reach for
-<p align="left">
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
+The core mechanic is an **opponent silhouette** — your rival's code is tokenized live and rendered as blurred, shimmering blocks, so you feel their pace without seeing their solution.
 
 <br>
 
-### 📊 GitHub stats
-<p align="left">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnandamChattrapate&show_icons=true&theme=default&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandamChattrapate&layout=compact&hide_border=true" />
-</p>
+## 🧰 Tech I reach for
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,js,react,nodejs,redis,aws,mongodb,docker,git,figma&theme=dark" />
+</div>
 
 <br>
 
-### 📫 Reach me
-[chattrapate.anandam@gmail.com](mailto:chattrapate.anandam@gmail.com) · [LinkedIn](https://www.linkedin.com/in/chattrapate-anandam-b8b1aa287/)
+## 📊 GitHub stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnandamChattrapate&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandamChattrapate&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnandamChattrapate&theme=tokyonight&hide_border=true&background=0d1117" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnandamChattrapate&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" />
+</div>
+
+<br>
+
+## 🐍 Contribution snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/AnandamChattrapate/AnandamChattrapate/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+> One-time setup: add `.github/workflows/snake.yml` with the [platane/snk](https://github.com/Platane/snk) action so GitHub regenerates this animation daily from your contribution graph.
+
+<br>
+
+<div align="center">
+
+### 📫 Let's connect
+
+[![Email](https://img.shields.io/badge/-chattrapate.anandam%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chattrapate.anandam@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chattrapate-anandam-b8b1aa287/)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,50:2c5364,100:0f2027&height=100&section=footer" />
+
+</div>
 
 <!---
 AnandamChattrapate/AnandamChattrapate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
