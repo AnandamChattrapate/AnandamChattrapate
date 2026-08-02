@@ -28,7 +28,7 @@
 
 I'm a **Software Development Intern at HackerEarth** passionate about building **real-time developer experiences**.
 
-Currently building **VibecodeArena**, an AI-powered multiplayer coding platform where developers battle each other live.
+Currently building **VibecodeArena**
 
 I enjoy designing scalable backend systems, distributed architectures, and polished developer tools that feel fast and intuitive.
 
